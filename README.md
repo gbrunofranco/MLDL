@@ -9,8 +9,11 @@
 * utils.py: helping functions and algorithms used for variations of iCaRL
 
 ## Contributors
+
 Bruno Franco Gabriele
 
+
 Di Lorenzo Anna
+
 
 Mc Mahon Shannon
